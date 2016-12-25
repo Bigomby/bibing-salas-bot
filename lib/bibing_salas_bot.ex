@@ -1,0 +1,2 @@
+defmodule BibingSalasBot do
+end
