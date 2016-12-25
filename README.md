@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/Bigomby/bibing_salas_bot.svg?branch=develop)](https://travis-ci.org/Bigomby/bibing_salas_bot)
+[![Coverage Status](https://coveralls.io/repos/github/Bigomby/bibing_salas_bot/badge.svg?branch=develop)](https://coveralls.io/github/Bigomby/bibing_salas_bot?branch=develop)
+
 # Bibing Salas Bot
 
 Bot para gestionar las reservas de salas de la Biblioteca de la ETSI de
